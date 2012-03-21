@@ -1,0 +1,5 @@
+Super simple debugger
+
+1. Put the library in your application/libraries folder
+2. Load the library into your application
+3. use $this->debugger->dump(string/array);
