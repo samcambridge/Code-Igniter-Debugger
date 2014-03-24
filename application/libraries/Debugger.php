@@ -3,8 +3,6 @@
 /**
  * CodeIgniter Easy Array Debugger
  *
- * A library to interface with the NoSQL database MongoDB. For more information see http://www.mongodb.org
- *
  * @package		CodeIgniter
  * @author		Sam Cambridge >> sam.cambridge@gmail.com
  * @version		Version 0.1
